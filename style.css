@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box
+}
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: cadetblue ;
+}
+button{
+margin-left: 20px;
+ border-radius: solid 20px ;
+ background-color: blue;
+}
